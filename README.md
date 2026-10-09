@@ -2,7 +2,7 @@
 
 Interoperable schemas for civic and public-interest information.
 
-> **Note:** This project is not affiliated with the Open Civic Data project started by the Sunlight Foundation ([github.com/opencivicdata](https://github.com/opencivicdata), [documentation](https://open-civic-data.readthedocs.io/en/latest/)), which defines Open Civic Data Division Identifiers (OCD-IDs). Whether and how this project reuses OCD-IDs is an open decision tracked in the issue tracker.
+> **Note:** This project is not affiliated with the Open Civic Data project started by the Sunlight Foundation ([github.com/opencivicdata](https://github.com/opencivicdata), [documentation](https://open-civic-data.readthedocs.io/en/latest/)), which defines Open Civic Data Division Identifiers (OCD-IDs). Whether and how this project reuses OCD-IDs is an open decision tracked in [#3](https://github.com/UnitedOpen-Source/open-civic-data/issues/3).
 
 ## Why
 
@@ -27,15 +27,15 @@ Good standards already exist for parts of this problem: the [Open Contracting Da
 
 The v0.1.0 milestone is meant to deliver a first usable schema and the tooling around it:
 
-- Repository scaffolding with uv, ruff, pytest and CI.
-- An ADR on schema versioning and governance (semantic versioning and a change process).
-- An ADR on reusing OCD-IDs, Popolo and OCDS rather than reinventing identifiers and models.
-- A first "public service" schema aligned with schema.org GovernmentService.
-- The `ocd validate` command.
-- A CSV to JSON converter driven by Table Schema.
-- Fictional example datasets, labelled as examples.
-- Reference documentation for each schema.
-- Translated field labels in English, Brazilian Portuguese and Spanish.
+- Repository scaffolding with uv, ruff, pytest and CI ([#1](https://github.com/UnitedOpen-Source/open-civic-data/issues/1)).
+- An ADR on schema versioning and governance (semantic versioning and a change process) ([#2](https://github.com/UnitedOpen-Source/open-civic-data/issues/2)).
+- An ADR on reusing OCD-IDs, Popolo and OCDS rather than reinventing identifiers and models ([#3](https://github.com/UnitedOpen-Source/open-civic-data/issues/3)).
+- A first "public service" schema aligned with schema.org GovernmentService ([#4](https://github.com/UnitedOpen-Source/open-civic-data/issues/4)).
+- The `ocd validate` command ([#5](https://github.com/UnitedOpen-Source/open-civic-data/issues/5)).
+- A CSV to JSON converter driven by Table Schema ([#6](https://github.com/UnitedOpen-Source/open-civic-data/issues/6)).
+- Fictional example datasets, labelled as examples ([#7](https://github.com/UnitedOpen-Source/open-civic-data/issues/7)).
+- Reference documentation for each schema ([#8](https://github.com/UnitedOpen-Source/open-civic-data/issues/8)).
+- Translated field labels in English, Brazilian Portuguese and Spanish ([#9](https://github.com/UnitedOpen-Source/open-civic-data/issues/9)).
 
 ## Principles
 
